@@ -48,3 +48,31 @@
 ## （九）使用者交互与设计（axure产品原型）
 - [原型文档展示](https://pl728329.github.io/museum_axure/#g=1&p=%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)
 - [原型文档下载区](https://github.com/PL728329/museum_axure)
+
+- **登录页面**
+![登录页面](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
+
+- **掌上博物页面**
+![掌上博物页面](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%8E%8C%E4%B8%8A%E5%8D%9A%E7%89%A9%E9%A1%B5%E9%9D%A2-%E4%B8%BB%E9%A1%B5%E9%9D%A2.png)
+
+- **个人模块页面**
+![个人模块页面](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97%E9%A1%B5%E9%9D%A2.png)
+
+- **导览地图页面**
+![导览地图页面](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E5%AF%BC%E8%A7%88%E5%9C%B0%E5%9B%BE%E9%A1%B5%E9%9D%A2.png)
+
+- **产品结构图**
+
+![产品结构图](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%8E%8C%E4%B8%8A%E5%8D%9A%E7%89%A9%E9%A6%86-%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+
+- **功能结构图**
+
+![功能结构图](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%8E%8C%E4%B8%8A%E5%8D%9A%E7%89%A9%E9%A6%86-%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+
+- **信息结构图**
+
+![信息结构图](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%8E%8C%E4%B8%8A%E5%8D%9A%E7%89%A9%E9%A6%86-%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+
+- **产品流程图**
+
+![产品流程图](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E4%BA%A7%E5%93%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
