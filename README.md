@@ -89,18 +89,17 @@
   2. https://api.map.baidu.com/location/ip //HTTPS协议
 - API文档：[普通IP定位API文档](http://lbs.baidu.com/index.php?title=webapi/ip-api)
 - 输入：
-
+![输入代码](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%AF%95%E4%B8%9A-%E7%99%BE%E5%BA%A6.png)
 - 输出：
-
+![输出结果](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%AF%95%E4%B8%9A-%E7%99%BE%E5%BA%A6%E7%BB%93%E6%9E%9C.png)
 ---
 #### 3. 高德地图开放平台-IP定位api
 - 描述：IP定位是一个简单的HTTP接口，根据用户输入的IP地址，能够快速的帮用户定位IP的所在位置。
 - 请求URL：https://restapi.amap.com/v3/ip?parameters
 - 请求方式：GET
 - API文档：[IP定位API文档](https://lbs.amap.com/api/webservice/guide/api/ipconfig/)
-- 输入：
-
-- 输出：
+- 输入输出：
+![输入代码](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%AF%95%E4%B8%9A-%E9%AB%98%E5%BE%B7.png)
 
 ---
 #### 4. 百度AI开放平台-文字识别-二维码识别api
@@ -110,13 +109,14 @@
 - API文档：[二维码识别API文档](https://ai.baidu.com/tech/ocr_others/qrcode)
 ##### 二维码识别
 - 输入：
-
+![输入代码](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E4%BA%8C%E7%BB%B4%E7%A0%81-%E8%BE%93%E5%85%A5.png)
 - 输出：
+![输出结果](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E4%BA%8C%E7%BB%B4%E7%A0%81-%E8%BE%93%E5%87%BA.png)
 ##### 条形码识别
 - 输入：
-
+![输入代码](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%9D%A1%E5%BD%A2%E7%A0%81-%E8%BE%93%E5%85%A5.png)
 - 输出：
-
+![输出结果](https://github.com/PL728329/API_ML_AI_meseum/blob/master/images/%E6%9D%A1%E5%BD%A2%E7%A0%81-%E8%BE%93%E5%87%BA.png)
 ---
 
 ## （十一）API使用比较分析
